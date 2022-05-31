@@ -63,7 +63,7 @@ for instrumentation.
     - A transaction in your APM UI.
 
 
-Pushing this Docker to Amazon ECR and creating a real Lambda function with it is an exercise for the reader. :)
+Pushing this Docker image to Amazon ECR and creating a real Lambda function with it is an exercise for the reader. :)
 
 
 # Future work
