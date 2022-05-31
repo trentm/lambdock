@@ -1,0 +1,7 @@
+{
+  "name": "lambdock",
+  "version": "1.0.0",
+  "description": "an example Node.js AWS Lambda Docker container with Elastic APM instrumentation",
+  "main": "index.js",
+  "private": true
+}
