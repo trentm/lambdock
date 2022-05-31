@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "description": "an example Node.js AWS Lambda Docker container with Elastic APM instrumentation",
   "main": "index.js",
+  "author": "Trent Mick <trent.mick@elastic.co>",
+  "license": "Apache-2.0",
   "private": true
 }
